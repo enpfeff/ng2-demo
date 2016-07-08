@@ -77,6 +77,11 @@ build/Release
 node_modules
 jspm_packages
 
+
+app/*.map
+app/*.js
+typings
+
 # Optional npm cache directory
 .npm
 
